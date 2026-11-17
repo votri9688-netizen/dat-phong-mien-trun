@@ -1,0 +1,110 @@
+[
+  {
+    "id": "dn-01",
+    "name": "Khách sạn Mường Thanh Luxury Đà Nẵng",
+    "slug": "muong-thanh-luxury-da-nang",
+    "area": "Da-Nang",
+    "priceFrom": 1200000,
+    "rating": 5,
+    "tags": ["Gần biển", "Bể bơi", "Gia đình"],
+    "tienIch": ["Gần biển", "Bể bơi", "Gia đình", "VAT"],
+    "utilities": ["Gần biển", "Bể bơi", "Gia đình", "VAT"],
+    "coverImage": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+    "schemaJsonLd": {
+      "@context": "https://schema.org",
+      "@type": "Hotel",
+      "name": "Khách sạn Mường Thanh Luxury Đà Nẵng",
+      "priceRange": "1200000 VND"
+    }
+  },
+  {
+    "id": "dn-02",
+    "name": "Novotel Danang Premier Han River",
+    "slug": "novotel-danang-premier-han-river",
+    "area": "Da-Nang",
+    "priceFrom": 2100000,
+    "rating": 5,
+    "tags": ["Bể bơi", "Gia đình"],
+    "tienIch": ["Bể bơi", "Gia đình", "VAT"],
+    "utilities": ["Bể bơi", "Gia đình", "VAT"],
+    "coverImage": "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=800",
+    "schemaJsonLd": {
+      "@context": "https://schema.org",
+      "@type": "Hotel",
+      "name": "Novotel Danang Premier Han River",
+      "priceRange": "2100000 VND"
+    }
+  },
+  {
+    "id": "ha-01",
+    "name": "Four Seasons Resort The Nam Hai Hội An",
+    "slug": "four-seasons-the-nam-hai-hoi-an",
+    "area": "Hoi-An",
+    "priceFrom": 8500000,
+    "rating": 5,
+    "tags": ["Gần biển", "Bể bơi", "Gia đình", "Gần phố cổ"],
+    "tienIch": ["Gần biển", "Bể bơi", "Gia đình", "Gần phố cổ", "VAT"],
+    "utilities": ["Gần biển", "Bể bơi", "Gia đình", "Gần phố cổ", "VAT"],
+    "coverImage": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?w=800",
+    "schemaJsonLd": {
+      "@context": "https://schema.org",
+      "@type": "Hotel",
+      "name": "Four Seasons Resort The Nam Hai Hội An",
+      "priceRange": "8500000 VND"
+    }
+  },
+  {
+    "id": "ha-02",
+    "name": "Anantara Hoi An Resort",
+    "slug": "anantara-hoi-an-resort",
+    "area": "Hoi-An",
+    "priceFrom": 3200000,
+    "rating": 5,
+    "tags": ["Gần phố cổ", "Bể bơi"],
+    "tienIch": ["Gần phố cổ", "Bể bơi", "VAT"],
+    "utilities": ["Gần phố cổ", "Bể bơi", "VAT"],
+    "coverImage": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800",
+    "schemaJsonLd": {
+      "@context": "https://schema.org",
+      "@type": "Hotel",
+      "name": "Anantara Hoi An Resort",
+      "priceRange": "3200000 VND"
+    }
+  },
+  {
+    "id": "hue-01",
+    "name": "Azerai La Residence Huế",
+    "slug": "azerai-la-residence-hue",
+    "area": "Hue",
+    "priceFrom": 2800000,
+    "rating": 5,
+    "tags": ["Bể bơi", "Gia đình"],
+    "tienIch": ["Bể bơi", "Gia đình", "VAT"],
+    "utilities": ["Bể bơi", "Gia đình", "VAT"],
+    "coverImage": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=800",
+    "schemaJsonLd": {
+      "@context": "https://schema.org",
+      "@type": "Hotel",
+      "name": "Azerai La Residence Huế",
+      "priceRange": "2800000 VND"
+    }
+  },
+  {
+    "id": "hue-02",
+    "name": "Silk Path Grand Hue Hotel",
+    "slug": "silk-path-grand-hue-hotel",
+    "area": "Hue",
+    "priceFrom": 1400000,
+    "rating": 4,
+    "tags": ["Bể bơi", "Gia đình"],
+    "tienIch": ["Bể bơi", "Gia đình", "VAT"],
+    "utilities": ["Bể bơi", "Gia đình", "VAT"],
+    "coverImage": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800",
+    "schemaJsonLd": {
+      "@context": "https://schema.org",
+      "@type": "Hotel",
+      "name": "Silk Path Grand Hue Hotel",
+      "priceRange": "1400000 VND"
+    }
+  }
+]
