@@ -9,3 +9,6 @@ Thumbs.db
 .idea/
 .env*
 test.txt
+
+# Local Netlify folder
+.netlify
